@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ms-admin-server
+
+--- #################### 管理系统ms相关配置 ####################
+
+ms:
+  info:
+    version: 1.0.0
+    base-package: com.glj.ms
